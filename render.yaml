@@ -1,4 +1,4 @@
-services: free
+services: 
   - type: web
     name: idontknowwhattonamethis0deez
     env: node
