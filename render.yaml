@@ -1,5 +1,5 @@
 services: free
-    type: web
+  - type: web
     name: idontknowwhattonamethis0deez
     env: node
     buildCommand: npm install
