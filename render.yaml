@@ -1,6 +1,6 @@
 services: free
   - type: web
-    name: imightknowwhattonamethis
+    name: idontknowwhattonamethis0deez
     env: node
     buildCommand: npm install
     startCommand: npm start
