@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: canvas
+    name: imightknowwhattonamethis
     env: node
     buildCommand: npm install
     startCommand: npm start
